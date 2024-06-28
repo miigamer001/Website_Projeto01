@@ -1,0 +1,44 @@
+p{
+    color: darkblue;
+    text-align: center;
+}
+
+
+.header-container{
+    border: 1px solid darkblue;
+    text-align: center ;
+    position: top;
+    top: 300px;
+    display: block;
+    width: 100%;
+}
+.h3-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid blue;
+    position: center;
+    top: 100px;
+    width: 43%;
+}
+.img-container{
+    margin: 30px 10px;
+}
+.testemonial-container{
+    background-color: darkblue;
+    height: 200px;
+    width: 100%;
+}
+.card-container{
+    background-color: lightblue;
+}
+
+body{
+    background-color: lightblue;
+}
+
+img{
+    width: 80%;
+    margin: auto;
+    display: block;
+}

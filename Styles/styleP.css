@@ -1,0 +1,33 @@
+.header2-container {
+    border: 1px solid darkblue;
+    text-align: center;
+    position: top;
+    top: 300px;
+    display: block;
+    width: 100%;
+}
+
+.maintitle {
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+.img-container img {
+    width: 100%;
+}
+
+.card2-container {
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    background-color: lightseagreen;
+    width: 100vw;
+    font-size: 16px;
+}
